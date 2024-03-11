@@ -5,13 +5,13 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "FARHAN-BOT",
+  "BOTNAME": "Ex 卝 বয়ফ্রেন্ডヅ bot",
   "PREFIX": "/",
   "OPERATOR": [
-    "100069926588234"
+    "100072320790038"
   ],
   "ADMINBOT": [
-    "100069926588234",
+    "100072320790038",
     "100089974857944"
   ],
   "OWNER": ["100000959749712"], 
